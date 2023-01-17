@@ -1,0 +1,37 @@
+{
+  "propertis": [
+    {
+      "id": 1,
+      "ptitle": "arhaoi",
+      "pprice": "600000",
+      "plocation": "chennai",
+      "pdetails": "3bhk plots available"
+    },
+    {
+      "id": 2,
+      "ptitle": "Anees Property",
+      "pprice": "8023692",
+      "plocation": "Chennai",
+      "pdetails": "4BHK house with swimming pool"
+    },
+    {
+      "id": 3,
+      "ptitle": "Afrose A",
+      "pprice": "₹600000.00",
+      "plocation": "Coimbatore",
+      "pdetails": "4BHK plot"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "afrose",
+      "email": "afrose@gamil.com",
+      "mobile": "9785641291",
+      "password": "12345"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
